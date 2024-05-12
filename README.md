@@ -1,4 +1,4 @@
-# dapp-vue-starter
+# DApp-Vue-Boilerplate
 
 ## Project setup
 
@@ -93,9 +93,9 @@ docker run --detach --publish 8545:8545 trufflesuite/ganache-cli:latest --verbos
 ### Builds production-ready Docker image (Nginx as a web server)
 
 ```
-docker build --tag dapp-vue-starter .
+docker build --tag DApp-Vue-Boilerplate .
 ```
 
 ### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.Vuejs.org/config/).
